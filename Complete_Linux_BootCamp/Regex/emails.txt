@@ -1,0 +1,8 @@
+aaaa@gmail.com
+abcdef@bbbb.com
+mmouse@toon.org
+jdoe@generic.com
+bill.smith&domain.net
+a.name@anyplace.edu
+donotreply@nowhere.tv
+donotreply@noplace,tv

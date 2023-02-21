@@ -1,0 +1,157 @@
+total 14568
+-rwxr-xr-x 1 root root 1183448 Apr 18 14:44 bash
+-rwxr-xr-x 1 root root  818800 Mar  4  2020 brltty
+-rwxr-xr-x 3 root root   39144 Sep  5  2019 bunzip2
+-rwxr-xr-x 1 root root 2172376 Nov 25  2021 busybox
+-rwxr-xr-x 3 root root   39144 Sep  5  2019 bzcat
+lrwxrwxrwx 1 root root       6 Sep  5  2019 bzcmp -> bzdiff
+-rwxr-xr-x 1 root root    2227 Sep  5  2019 bzdiff
+lrwxrwxrwx 1 root root       6 Sep  5  2019 bzegrep -> bzgrep
+-rwxr-xr-x 1 root root    4877 Sep  4  2019 bzexe
+lrwxrwxrwx 1 root root       6 Sep  5  2019 bzfgrep -> bzgrep
+-rwxr-xr-x 1 root root    3775 Sep  5  2019 bzgrep
+-rwxr-xr-x 3 root root   39144 Sep  5  2019 bzip2
+-rwxr-xr-x 1 root root   18584 Sep  5  2019 bzip2recover
+lrwxrwxrwx 1 root root       6 Sep  5  2019 bzless -> bzmore
+-rwxr-xr-x 1 root root    1297 Sep  5  2019 bzmore
+-rwxr-xr-x 1 root root   43416 Sep  5  2019 cat
+-rwxr-xr-x 1 root root   18584 Mar  1  2020 chacl
+-rwxr-xr-x 1 root root   72024 Sep  5  2019 chgrp
+-rwxr-xr-x 1 root root   63864 Sep  5  2019 chmod
+-rwxr-xr-x 1 root root   72024 Sep  5  2019 chown
+-rwxr-xr-x 1 root root   14408 May  9  2019 chvt
+-rwxr-xr-x 1 root root  153976 Sep  5  2019 cp
+-rwxr-xr-x 1 root root  165504 Aug 25  2021 cpio
+-rwxr-xr-x 1 root root  129816 Jul 18  2019 dash
+-rwxr-xr-x 1 root root  108920 Sep  5  2019 date
+-rwxr-xr-x 1 root root   80256 Sep  5  2019 dd
+-rwxr-xr-x 1 root root   93128 Sep  5  2019 df
+-rwxr-xr-x 1 root root  142144 Sep  5  2019 dir
+-rwxr-xr-x 1 root root   84440 Feb  7 19:03 dmesg
+lrwxrwxrwx 1 root root       8 Nov  7  2019 dnsdomainname -> hostname
+lrwxrwxrwx 1 root root       8 Nov  7  2019 domainname -> hostname
+-rwxr-xr-x 1 root root  178712 May  9  2019 dumpkeys
+-rwxr-xr-x 1 root root   39256 Sep  5  2019 echo
+-rwxr-xr-x 1 root root   55504 Feb 22  2020 ed
+-rwxr-xr-x 1 root root   22680 Feb 20  2020 efibootdump
+-rwxr-xr-x 1 root root   44312 Feb 20  2020 efibootmgr
+-rwxr-xr-x 1 root root      28 Jan 29  2020 egrep
+-rwxr-xr-x 1 root root   39256 Sep  5  2019 false
+-rwxr-xr-x 1 root root   14408 May  9  2019 fgconsole
+-rwxr-xr-x 1 root root      28 Jan 29  2020 fgrep
+-rwxr-xr-x 1 root root   73128 Feb  7 19:03 findmnt
+-rwxr-xr-x 1 root root   40184 Nov 12  2019 fuser
+-rwsr-xr-x 1 root root   39144 Mar  7  2020 fusermount
+-rwxr-xr-x 1 root root   31512 Mar  1  2020 getfacl
+-rwxr-xr-x 1 root root  199136 Jan 29  2020 grep
+-rwxr-xr-x 2 root root    2346 Apr  8 16:35 gunzip
+-rwxr-xr-x 1 root root    6447 Apr  8 16:35 gzexe
+-rwxr-xr-x 1 root root   97496 Apr  8 16:35 gzip
+-rwxr-xr-x 1 root root  200888 Feb  3 16:57 hciconfig
+-rwxr-xr-x 1 root root   26856 Nov  7  2019 hostname
+-rwxr-xr-x 1 root root  611960 Feb 13  2020 ip
+-rwxr-xr-x 1 root root   80120 Apr 21 18:24 journalctl
+-rwxr-xr-x 1 root root   14408 May  9  2019 kbd_mode
+-rwxr-xr-x 1 root root   30952 Sep  9  2021 kill
+-rwxr-xr-x 1 root root  174424 Mar 12  2020 kmod
+-rwxr-xr-x 1 root root   76160 Sep  5  2019 ln
+-rwxr-xr-x 1 root root  215624 May  9  2019 loadkeys
+-rwxr-xr-x 1 root root   57104 Mar 14 13:56 login
+-rwxr-xr-x 1 root root   59736 Apr 21 18:24 loginctl
+-rwxr-xr-x 1 root root  121712 Jun  6 23:39 lowntfs-3g
+-rwxr-xr-x 1 root root  142144 Sep  5  2019 ls
+-rwxr-xr-x 1 root root  133352 Feb  7 19:03 lsblk
+lrwxrwxrwx 1 root root       4 Mar 12  2020 lsmod -> kmod
+-rwxr-xr-x 1 root root   88408 Sep  5  2019 mkdir
+-rwxr-xr-x 1 root root   72024 Sep  5  2019 mknod
+-rwxr-xr-x 1 root root   47448 Sep  5  2019 mktemp
+-rwxr-xr-x 1 root root   43160 Feb  7 19:03 more
+-rwsr-xr-x 1 root root   55528 Feb  7 19:03 mount
+-rwxr-xr-x 1 root root   14568 Feb  7 19:03 mountpoint
+lrwxrwxrwx 1 root root      20 May 11 12:00 mt -> /etc/alternatives/mt
+-rwxr-xr-x 1 root root   88864 Aug 25  2021 mt-gnu
+-rwxr-xr-x 1 root root  149888 Sep  5  2019 mv
+-rwxr-xr-x 1 root root  320136 Apr 10  2020 nano
+lrwxrwxrwx 1 root root      20 May 11 12:00 nc -> /etc/alternatives/nc
+-rwxr-xr-x 1 root root   43664 Mar 10  2020 nc.openbsd
+lrwxrwxrwx 1 root root      24 May 11 12:00 netcat -> /etc/alternatives/netcat
+-rwxr-xr-x 1 root root   76008 Apr 21 18:24 networkctl
+lrwxrwxrwx 1 root root       8 Nov  7  2019 nisdomainname -> hostname
+-rwxr-xr-x 1 root root  162704 Jun  6 23:39 ntfs-3g
+-rwxr-xr-x 1 root root   14568 Jun  6 23:39 ntfs-3g.probe
+-rwxr-xr-x 1 root root   35080 Jun  6 23:39 ntfscat
+-rwxr-xr-x 1 root root   39176 Jun  6 23:39 ntfscluster
+-rwxr-xr-x 1 root root   39176 Jun  6 23:39 ntfscmp
+-rwxr-xr-x 1 root root   39184 Jun  6 23:39 ntfsfallocate
+-rwxr-xr-x 1 root root   47376 Jun  6 23:39 ntfsfix
+-rwxr-xr-x 1 root root   59672 Jun  6 23:39 ntfsinfo
+-rwxr-xr-x 1 root root   36184 Jun  6 23:39 ntfsls
+-rwxr-xr-x 1 root root   39176 Jun  6 23:39 ntfsmove
+-rwxr-xr-x 1 root root  121096 Jun  6 23:39 ntfsrecover
+-rwxr-xr-x 1 root root   97024 Jun  6 23:39 ntfssecaudit
+-rwxr-xr-x 1 root root   43200 Jun  6 23:39 ntfstruncate
+-rwxr-xr-x 1 root root   39096 Jun  6 23:39 ntfsusermap
+-rwxr-xr-x 1 root root   56104 Jun  6 23:39 ntfswipe
+-rwxr-xr-x 1 root root   22968 May  9  2019 openvt
+lrwxrwxrwx 1 root root      14 Feb 14  2020 pidof -> /sbin/killall5
+-rwxr-xr-x 1 root root   72776 Jan 31  2020 ping
+lrwxrwxrwx 1 root root       4 Jan 31  2020 ping4 -> ping
+lrwxrwxrwx 1 root root       4 Jan 31  2020 ping6 -> ping
+-rwxr-xr-x 1 root root   51352 Nov  2  2020 plymouth
+-rwxr-xr-x 1 root root  137688 Sep  9  2021 ps
+-rwxr-xr-x 1 root root   43352 Sep  5  2019 pwd
+lrwxrwxrwx 1 root root       4 Apr 18 14:44 rbash -> bash
+-rwxr-xr-x 1 root root   51544 Sep  5  2019 readlink
+-rwxr-xr-x 1 root root      89 Feb 22  2020 red
+-rwxr-xr-x 1 root root   72056 Sep  5  2019 rm
+-rwxr-xr-x 1 root root   47448 Sep  5  2019 rmdir
+lrwxrwxrwx 1 root root       4 Apr 10  2020 rnano -> nano
+-rwxr-xr-x 1 root root   27144 Dec  7  2019 run-parts
+-rwxr-xr-x 1 root root  121288 Dec 22  2018 sed
+-rwxr-xr-x 1 root root   39768 Mar  1  2020 setfacl
+-rwxr-xr-x 1 root root   47240 May  9  2019 setfont
+-rwxr-xr-x 1 root root   39233 Mar 27  2020 setupcon
+lrwxrwxrwx 1 root root       4 Jul 18  2019 sh -> dash
+lrwxrwxrwx 1 root root       4 May 11 12:00 sh.distrib -> dash
+-rwxr-xr-x 1 root root   39256 Sep  5  2019 sleep
+-rwxr-xr-x 1 root root  168800 Feb 13  2020 ss
+lrwxrwxrwx 1 root root       7 Nov 25  2021 static-sh -> busybox
+-rwxr-xr-x 1 root root   84344 Sep  5  2019 stty
+-rwsr-xr-x 1 root root   67816 Feb  7 19:03 su
+-rwxr-xr-x 1 root root   39256 Sep  5  2019 sync
+-rwxr-xr-x 1 root root  996584 Apr 21 18:24 systemctl
+lrwxrwxrwx 1 root root      20 Apr 21 18:24 systemd -> /lib/systemd/systemd
+-rwxr-xr-x 1 root root   14680 Apr 21 18:24 systemd-ask-password
+-rwxr-xr-x 1 root root   22752 Apr 21 18:24 systemd-escape
+-rwxr-xr-x 1 root root  109072 Apr 21 18:24 systemd-hwdb
+-rwxr-xr-x 1 root root   22776 Apr 21 18:24 systemd-inhibit
+-rwxr-xr-x 1 root root   26952 Apr 21 18:24 systemd-machine-id-setup
+-rwxr-xr-x 1 root root   18664 Apr 21 18:24 systemd-notify
+-rwxr-xr-x 1 root root   55824 Apr 21 18:24 systemd-sysusers
+-rwxr-xr-x 1 root root   88480 Apr 21 18:24 systemd-tmpfiles
+-rwxr-xr-x 1 root root   30944 Apr 21 18:24 systemd-tty-ask-password-agent
+-rwxr-xr-x 1 root root  448112 Mar 15 18:29 tar
+-rwxr-xr-x 1 root root   14360 Dec  7  2019 tempfile
+-rwxr-xr-x 1 root root  100728 Sep  5  2019 touch
+-rwxr-xr-x 1 root root   39256 Sep  5  2019 true
+-rwxr-xr-x 1 root root  941264 Apr 21 18:24 udevadm
+-rwxr-xr-x 1 root root   18584 Mar  7  2020 ulockmgr_server
+-rwsr-xr-x 1 root root   39144 Feb  7 19:03 umount
+-rwxr-xr-x 1 root root   39288 Sep  5  2019 uname
+-rwxr-xr-x 2 root root    2346 Apr  8 16:35 uncompress
+-rwxr-xr-x 1 root root    2762 May  9  2019 unicode_start
+-rwxr-xr-x 1 root root  142144 Sep  5  2019 vdir
+-rwxr-xr-x 1 root root   35048 Feb  7 19:03 wdctl
+-rwxr-xr-x 1 root root     946 Dec  7  2019 which
+lrwxrwxrwx 1 root root       8 Nov  7  2019 ypdomainname -> hostname
+-rwxr-xr-x 1 root root    1984 Apr  8 16:35 zcat
+-rwxr-xr-x 1 root root    1678 Apr  8 16:35 zcmp
+-rwxr-xr-x 1 root root    5898 Apr  8 16:35 zdiff
+-rwxr-xr-x 1 root root      29 Apr  8 16:35 zegrep
+-rwxr-xr-x 1 root root      29 Apr  8 16:35 zfgrep
+-rwxr-xr-x 1 root root    2081 Apr  8 16:35 zforce
+-rwxr-xr-x 1 root root    8103 Apr  8 16:35 zgrep
+-rwxr-xr-x 1 root root    2206 Apr  8 16:35 zless
+-rwxr-xr-x 1 root root    1842 Apr  8 16:35 zmore
+-rwxr-xr-x 1 root root    4577 Apr  8 16:35 znew
+as

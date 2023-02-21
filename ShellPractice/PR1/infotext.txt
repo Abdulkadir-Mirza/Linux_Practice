@@ -1,0 +1,8 @@
+drwxrwxr-x 27 akm009 akm009 4096 Mar 31 09:45 CPP
+drwxrwxr-x  8 akm009 akm009 4096 Jun  3 11:45 DSCourse
+drwxrw
+sports
+xr-x  2 akm009 akm009 4096 Jun  6 11:37 Linux
+drwxrwxr-x  9 akm009 akm009 4096 May 26 15:47 MyCPP
+*********END***************
+sports
